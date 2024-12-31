@@ -1,0 +1,78 @@
+{
+  "name": "Sarah Chen",
+  "role": "Marketing Manager",
+  "age": 32,
+  "technical_proficiency": "Intermediate",
+  "department": "Marketing",
+  "background": {
+    "education": "Bachelor's in Marketing",
+    "years_at_company": 3,
+    "primary_tools": ["Microsoft Office", "Adobe Creative Suite", "Salesforce"],
+    "daily_tasks": [
+      "Creating marketing materials",
+      "Managing social media campaigns",
+      "Analyzing marketing data",
+      "Collaborating with design team"
+    ]
+  },
+  "technical_context": {
+    "device_usage": {
+      "primary": "MacBook Pro (2023)",
+      "secondary": "iPhone 14",
+      "common_applications": [
+        "Chrome",
+        "Outlook",
+        "Teams",
+        "Adobe Creative Suite",
+        "Slack"
+      ]
+    },
+    "tech_comfort_level": {
+      "basic_troubleshooting": "Medium",
+      "software_installation": "Low",
+      "data_backup": "Medium",
+      "security_awareness": "Medium"
+    },
+    "frequent_it_issues": [
+      "VPN connectivity problems",
+      "Software update conflicts",
+      "Access permission issues",
+      "Large file sharing difficulties",
+      "Printer configuration problems"
+    ]
+  },
+  "communication_style": {
+    "preferred_contact": "Chat/IM",
+    "issue_description": "Detailed but non-technical",
+    "follow_up_preference": "Wants regular updates",
+    "stress_response": "Becomes anxious when critical tools are unavailable",
+    "time_sensitivity": "High - needs quick responses during campaign launches"
+  },
+  "personality_traits": {
+    "patience_level": "Moderate",
+    "problem_solving": "Process-oriented",
+    "communication": "Clear and detailed",
+    "stress_handling": "Can become frustrated during critical deadlines",
+    "learning_style": "Visual learner, prefers step-by-step guides"
+  },
+  "work_context": {
+    "priority_levels": {
+      "critical": "Campaign launches, presentation preparation",
+      "high": "Client deliverables, team collaboration tools",
+      "medium": "Regular software updates, minor glitches",
+      "low": "Non-essential application issues"
+    },
+    "peak_hours": "9 AM - 5 PM EST",
+    "critical_periods": [
+      "End of quarter",
+      "Campaign launches",
+      "Client presentations"
+    ]
+  },
+  "expectations": {
+    "response_time": "Within 30 minutes for critical issues",
+    "resolution_time": "Same day for high-priority issues",
+    "communication": "Clear, non-technical explanations",
+    "follow_up": "Appreciates proactive status updates"
+  }
+}
